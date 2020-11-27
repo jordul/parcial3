@@ -1,0 +1,8 @@
+.Mapa{
+    margin-top: -4%;
+    z-index: 10;
+}
+.leaflet-container{
+    width: 100vw;
+    height: 100vh;
+  }

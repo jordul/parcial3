@@ -1,0 +1,7 @@
+.componente1 {
+    width: 1350px;
+    margin: 0 auto;
+    background: var(--blanco);
+    position: relative;
+}
+
