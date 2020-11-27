@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/parcial3/static/css/main.621fa240.chunk.css",
+    "main.js": "/parcial3/static/js/main.77548dec.chunk.js",
+    "main.js.map": "/parcial3/static/js/main.77548dec.chunk.js.map",
+    "runtime-main.js": "/parcial3/static/js/runtime-main.59483656.js",
+    "runtime-main.js.map": "/parcial3/static/js/runtime-main.59483656.js.map",
+    "static/css/2.3d0588fc.chunk.css": "/parcial3/static/css/2.3d0588fc.chunk.css",
+    "static/js/2.6cf81d42.chunk.js": "/parcial3/static/js/2.6cf81d42.chunk.js",
+    "static/js/2.6cf81d42.chunk.js.map": "/parcial3/static/js/2.6cf81d42.chunk.js.map",
+    "index.html": "/parcial3/index.html",
+    "static/css/2.3d0588fc.chunk.css.map": "/parcial3/static/css/2.3d0588fc.chunk.css.map",
+    "static/css/main.621fa240.chunk.css.map": "/parcial3/static/css/main.621fa240.chunk.css.map",
+    "static/js/2.6cf81d42.chunk.js.LICENSE.txt": "/parcial3/static/js/2.6cf81d42.chunk.js.LICENSE.txt",
+    "static/media/icon-location.7e6459d2.svg": "/parcial3/static/media/icon-location.7e6459d2.svg",
+    "static/media/Consulta.css": "/parcial3/static/media/pattern-bg.a60a3c85.png",
+    "static/media/Card.css": "/parcial3/static/media/rubik-regular-webfont.4faad1ac.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59483656.js",
+    "static/css/2.3d0588fc.chunk.css",
+    "static/js/2.6cf81d42.chunk.js",
+    "static/css/main.621fa240.chunk.css",
+    "static/js/main.77548dec.chunk.js"
+  ]
+}
